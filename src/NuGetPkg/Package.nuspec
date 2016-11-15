@@ -12,7 +12,7 @@
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <!--<releaseNotes>Project created.</releaseNotes>-->
     <copyright>Copyright 2016</copyright>
-    <tags>paging page pagination</tags>
+    <tags>smart paging page pagination data queryable enumerable</tags>
     <!--<dependencies>
       <dependency id="Net.Http.WebApi.OData" version="3.3.6"  />
       <dependency id="RazorEngine" version="3.8.1"  />
