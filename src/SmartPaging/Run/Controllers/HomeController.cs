@@ -17,11 +17,7 @@ namespace Run.Controllers
         public ActionResult Contacts(int page = 1, int pageSize = DEFAULT_PAGE_SIZE)
         {
             // Create the PagingOptions object
-            var pagingOptions = new PagingOptions
-            {
-                Page = page,
-                PageSize = pageSize
-            };
+            var pagingOptions = new PagingOptions(page, pageSize);
 
             // Generating a sample list to show
             var items = Enumerable.Range(1, 42)
