@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
-<package >
+<package>
   <metadata>
     <id>SmartPaging</id>
     <title>SmartPaging</title>
     <description>Simple library to implement pagination in .NET.</description>
-    <version>0.0.2</version>
+    <version>0.0.3</version>
     <authors>JulioGold</authors>
     <owners>JulioGold</owners>
     <licenseUrl>https://raw.githubusercontent.com/JulioGold/SmartPaging/master/LICENSE</licenseUrl>
