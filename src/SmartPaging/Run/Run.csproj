@@ -25,6 +25,7 @@
     <UseGlobalApplicationHostFile />
     <NuGetPackageImportStamp>
     </NuGetPackageImportStamp>
+    <Use64BitIISExpress />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -174,7 +175,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\SmartPaging\SmartPaging.csproj">
-      <Project>{1b1a379c-25d5-4142-ac2e-290262a6201f}</Project>
+      <Project>{d58b4e0c-ced6-410b-9335-ed5c55a4dd8e}</Project>
       <Name>SmartPaging</Name>
     </ProjectReference>
   </ItemGroup>

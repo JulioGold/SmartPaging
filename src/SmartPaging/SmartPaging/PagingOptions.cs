@@ -49,3 +49,4 @@ namespace SmartPaging
         public int PageSize { get; set; }
     }
 }
+
